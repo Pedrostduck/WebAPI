@@ -1,0 +1,88 @@
+{
+    "users": [
+      {
+        "login": "joaovitormarquesmendonca",
+        "id": 1,
+        "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4&quot",
+        "name": "João Vitor Marques Mendonça",
+        "email": "jao.mendonca@hotmail.com",
+        "followers": 43453,
+        "following": 503
+      },
+      {
+        "login": "loryanecunhapinto",
+        "id": 2,
+        "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4&quot",
+        "name": "Loryane Cunha Pinto",
+        "email": "LoryCunha203@email.com",
+        "followers": 1587,
+        "following": 726
+      },
+      {
+        "0": {
+          "login": "pedrobratak",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4&quot",
+          "name": "Pedro Bratake Silva",
+          "email": "P.Bratake.Sil@email.com",
+          "followers": 420149512933124513,
+          "following": 1
+        },
+        "id": "8fe5"
+      },
+      {
+        "0": {
+          "login": "usuario teste",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4&quot",
+          "name": "Teste",
+          "email": "Teste@email.com",
+          "followers": 43,
+          "following": 54
+        },
+        "id": "b6b0"
+      }
+    ],
+    "repos": [
+      {
+        "id": 2,
+        "name": "api-escolas",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 3,
+        "name": "Arduino_AVES_Telemetria",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 4,
+        "name": "bot_piano_tiles",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      },
+      {
+        "id": 1,
+        "name": "2048evolution",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 2,
+        "name": "alura-pikachu",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 3,
+        "name": "alura-react-native-comecando-do-zero",
+        "data": "1 de jan. de 2021",
+        "postId": 2
+      },
+      {
+        "id": 5,
+        "name": "Alura_cursos",
+        "data": "1 de jan. de 2021",
+        "postId": 1
+      }
+    ]
+  }
